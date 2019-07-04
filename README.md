@@ -2,7 +2,7 @@
  simple login page
  
  # Screenshots
-![Image1](image.png)
+![Image1](https://github.com/ipshitag/LoginPage/blob/master/2019-07-04%20(10).png)
 
 <hr>
 
