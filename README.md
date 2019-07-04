@@ -37,7 +37,13 @@ On a successful save
 Saved in the SQL table
 :tada:
 
+<hr>
+<hr>
+
 ![Image7](https://github.com/ipshitag/LoginPage/blob/master/2019-07-04%20(9).png)
 SHA encrypted
+
+<hr>
+<hr>
 
 ## Feel FREE to make any contributions :squirrel:
