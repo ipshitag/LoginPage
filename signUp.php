@@ -83,6 +83,9 @@
             center left
             no-repeat
           `
+        }) .then(function()
+        {
+          window.location = "index.html";
         })
         },
         error: function(data)
